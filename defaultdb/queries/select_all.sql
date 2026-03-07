@@ -1,3 +1,3 @@
 SELECT *
-FROM your_table
+FROM role
 LIMIT 100;
