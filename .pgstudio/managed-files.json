@@ -1,3 +1,6 @@
 [
-  "demo/demo.sql"
+  "defaultdb/README.md",
+  "defaultdb/queries/select_all.sql",
+  "defaultdb/queries/table_sizes.sql",
+  "defaultdb/templates/insert_template.sql"
 ]
